@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edc8c0840cf811d4495e0558e32d1ae7, type: 3}
+  m_Name: Rogue
+  m_EditorClassIdentifier: 
+  profileName: Rogue
+  profileIcon: {fileID: 21300000, guid: 9c5daabcbd96855488d328fc7b7d22c5, type: 3}
+  descriptionText: Sneak up on the world. Enter this mode to unlock new combat skills.
+  skills:
+  - {fileID: 11400000, guid: 5d76df2356d42b749b99a65e4dd577db, type: 2}
+  - {fileID: 11400000, guid: 7a4c7efe5bd61614fb1298674b0b7d95, type: 2}
+  - {fileID: 11400000, guid: 4339787d46f8d014c982146ef8be846b, type: 2}
