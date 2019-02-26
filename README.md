@@ -7,6 +7,8 @@
 
 直播页面报名地址：https://connect.unity.com/events/unity_nested_prefab_live_session
 
+直播页面地址：https://connect.unity.com/i/ebcb343a-da7b-4541-bd33-38e805ce7836
+
 直播内容：
 Unity在2018.3推出了重新设计的Prefab预制件系统。这一全新的设计终于为一个长达十年的问题画上了完美的句号，这个问题就是：“什么时候Unity可以提供嵌套式的预制件系统，俗称Nested Prefab？”
 
