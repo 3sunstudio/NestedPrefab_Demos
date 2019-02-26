@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 62a5bbffaeb624f1ca94fd5754d9e31a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mech_head
+    100004: mech_left_ankle
+    100006: mech_left_lower_leg
+    100008: mech_left_toe
+    100010: mech_left_upper_leg
+    100012: mech_main_body
+    100014: mech_neck
+    100016: mech_right_ankle
+    100018: mech_right_lower_leg
+    100020: mech_right_toe
+    100022: mech_right_upper_leg
+    100024: mech_root
+    400000: //RootNode
+    400002: mech_head
+    400004: mech_left_ankle
+    400006: mech_left_lower_leg
+    400008: mech_left_toe
+    400010: mech_left_upper_leg
+    400012: mech_main_body
+    400014: mech_neck
+    400016: mech_right_ankle
+    400018: mech_right_lower_leg
+    400020: mech_right_toe
+    400022: mech_right_upper_leg
+    400024: mech_root
+    2300000: mech_head
+    2300002: mech_left_ankle
+    2300004: mech_left_lower_leg
+    2300006: mech_left_toe
+    2300008: mech_left_upper_leg
+    2300010: mech_main_body
+    2300012: mech_neck
+    2300014: mech_right_ankle
+    2300016: mech_right_lower_leg
+    2300018: mech_right_toe
+    2300020: mech_right_upper_leg
+    3300000: mech_head
+    3300002: mech_left_ankle
+    3300004: mech_left_lower_leg
+    3300006: mech_left_toe
+    3300008: mech_left_upper_leg
+    3300010: mech_main_body
+    3300012: mech_neck
+    3300014: mech_right_ankle
+    3300016: mech_right_lower_leg
+    3300018: mech_right_toe
+    3300020: mech_right_upper_leg
+    4300000: mech_right_upper_leg
+    4300002: mech_right_lower_leg
+    4300004: mech_right_ankle
+    4300006: mech_right_toe
+    4300008: mech_main_body
+    4300010: mech_neck
+    4300012: mech_head
+    4300014: mech_left_upper_leg
+    4300016: mech_left_lower_leg
+    4300018: mech_left_ankle
+    4300020: mech_left_toe
+    7400000: WalkForward
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mech_patrolbot
+    second: {fileID: 2100000, guid: 5eb333605c5661249aa19c314bd23703, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WalkForward
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0099e126e6c644b0fa739e19b91ded74,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

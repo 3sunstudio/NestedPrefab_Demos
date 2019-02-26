@@ -3,7 +3,8 @@
 
 1. 3D Game Kit工程用于演示游戏场景中如何重用美术资产
 2. API Demo工程用于演示如何通过编辑器脚本来控制Prefab
-3. UI Demo工程用于演示如何在UI中重用UI元素
+3. Spider Robots Demo工程用于演示Prefab Variant相关功能
+4. UI Demo工程用于演示如何在UI中使用Prefab系统
 
 直播页面报名地址：https://connect.unity.com/events/unity_nested_prefab_live_session
 
