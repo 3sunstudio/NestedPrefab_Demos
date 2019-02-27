@@ -1,6 +1,8 @@
 # NestedPrefab_Demos
 用于2019年2月27日Unity官方直播中关于嵌套式Prefabs功能的演示
 
+以下工程所用Unity版本： 2018.3.6f1
+
 1. 3D Game Kit工程用于演示游戏场景中如何重用美术资产
 2. API Demo工程用于演示如何通过编辑器脚本来控制Prefab
 3. Spider Robots Demo工程用于演示Prefab Variant相关功能
