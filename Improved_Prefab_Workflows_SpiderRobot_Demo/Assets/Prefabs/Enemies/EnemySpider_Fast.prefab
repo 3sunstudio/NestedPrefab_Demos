@@ -3,6 +3,7 @@
 --- !u!1001 &3387234086136654920
 PrefabInstance:
   m_ObjectHideFlags: 0
+  serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:

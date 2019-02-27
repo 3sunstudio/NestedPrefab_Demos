@@ -9,6 +9,8 @@ public class CarouselController : MonoBehaviour
     [Header("Inputs")]
     public KeyCode leftKey;
     public KeyCode rightKey;
+    public KeyCode upKey;
+    public KeyCode downKey;
     public KeyCode activateKey;
 
     [Header("Logic")]
@@ -38,12 +40,12 @@ public class CarouselController : MonoBehaviour
 
         if(!carouselIsMoving)
         {
-            if(Input.GetKeyDown(leftKey))
+            if(Input.GetKeyDown(leftKey) || Input.GetKeyDown(upKey))
             {
                 RotateCarousel(-1);
             }
 
-            if(Input.GetKeyDown(rightKey))
+            if(Input.GetKeyDown(rightKey) || Input.GetKeyDown(downKey))
             {
                 RotateCarousel(1);
             }
