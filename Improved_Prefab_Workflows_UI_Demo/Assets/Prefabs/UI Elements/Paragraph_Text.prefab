@@ -103,7 +103,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: This is a paragraph text. It can be 150 characters but no more.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 38f2d64b5141d420e9e270d115b1375d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0e2204ba01e1b6e46b6a9e75b45b1939, type: 2}
   m_sharedMaterial: {fileID: 21184072337858636, guid: 38f2d64b5141d420e9e270d115b1375d,
     type: 2}
   m_fontSharedMaterials: []
