@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa83caad42df2447aa2cf7f6ca6528c, type: 3}
   m_Name: Blend
   m_EditorClassIdentifier: 
-  skillName: Blend
+  skillName: "\u6DF7\u5165"
   skillIcon: {fileID: 21300000, guid: 8f8263fe3468be44d87b224f7bdfb8e1, type: 3}

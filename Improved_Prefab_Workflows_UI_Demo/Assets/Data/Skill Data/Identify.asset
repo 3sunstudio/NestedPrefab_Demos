@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa83caad42df2447aa2cf7f6ca6528c, type: 3}
   m_Name: Identify
   m_EditorClassIdentifier: 
-  skillName: Identify
+  skillName: "\u8FA8\u8BC6"
   skillIcon: {fileID: 21300000, guid: 289da3eb238464c44afab631a9783828, type: 3}

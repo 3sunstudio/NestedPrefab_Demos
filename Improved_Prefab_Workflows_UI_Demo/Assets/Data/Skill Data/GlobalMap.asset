@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa83caad42df2447aa2cf7f6ca6528c, type: 3}
   m_Name: GlobalMap
   m_EditorClassIdentifier: 
-  skillName: Global Map
+  skillName: "\u5168\u7403\u5730\u56FE"
   skillIcon: {fileID: 21300000, guid: 813c95648cf161b48a037e48c25b5e58, type: 3}

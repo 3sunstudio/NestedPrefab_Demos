@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa83caad42df2447aa2cf7f6ca6528c, type: 3}
   m_Name: JumpBoost
   m_EditorClassIdentifier: 
-  skillName: Jump Boost
+  skillName: "\u589E\u5F3A\u8DF3\u9AD8"
   skillIcon: {fileID: 21300000, guid: 8ae72dc82ee1a314cbdd1f3b8a5fd685, type: 3}

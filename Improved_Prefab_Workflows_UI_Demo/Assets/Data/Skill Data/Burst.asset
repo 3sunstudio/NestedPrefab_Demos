@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa83caad42df2447aa2cf7f6ca6528c, type: 3}
   m_Name: Burst
   m_EditorClassIdentifier: 
-  skillName: Burst
+  skillName: "\u66B4\u51FB"
   skillIcon: {fileID: 21300000, guid: 43bdd87e41c9e814997520d37a619425, type: 3}

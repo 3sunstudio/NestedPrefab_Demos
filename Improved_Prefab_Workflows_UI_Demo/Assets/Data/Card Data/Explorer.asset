@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc8c0840cf811d4495e0558e32d1ae7, type: 3}
   m_Name: Explorer
   m_EditorClassIdentifier: 
-  profileName: Explorer
+  profileName: "\u63A2\u9669\u5BB6"
   profileIcon: {fileID: 21300000, guid: 42d984ce295234641b1cb18df0854078, type: 3}
-  descriptionText: Agility and speed. A fast mode for exploring and reaching new heights.
+  descriptionText: "\u7075\u6D3B\u5EA6\u548C\u901F\u5EA6\u4FF1\u4F73\u3002\u53EF\u4EE5\u8FDB\u884C\u5FEB\u901F\u63A2\u7D22\u548C\u8FBE\u5230\u65B0\u9AD8\u5EA6"
   skills:
   - {fileID: 11400000, guid: b200b985a2fbc294bb5b9a5718f58568, type: 2}
   - {fileID: 11400000, guid: 88295e37eaca8704489b73e22be1cec2, type: 2}

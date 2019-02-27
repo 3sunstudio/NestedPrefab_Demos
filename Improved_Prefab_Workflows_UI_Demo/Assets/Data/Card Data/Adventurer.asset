@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc8c0840cf811d4495e0558e32d1ae7, type: 3}
   m_Name: Adventurer
   m_EditorClassIdentifier: 
-  profileName: Adventurer
+  profileName: "\u5192\u9669\u5BB6"
   profileIcon: {fileID: 21300000, guid: 6385011adb76d0548b2cd34516f558b9, type: 3}
-  descriptionText: A well balanced profile with both survival and strength bonus.
+  descriptionText: "\u751F\u5B58\u6280\u80FD\u548C\u4F53\u529B\u5956\u52B1\u975E\u5E38\u5E73\u8861\u7684\u914D\u7F6E"
   skills:
   - {fileID: 11400000, guid: 88295e37eaca8704489b73e22be1cec2, type: 2}
   - {fileID: 11400000, guid: 7a4c7efe5bd61614fb1298674b0b7d95, type: 2}

@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa83caad42df2447aa2cf7f6ca6528c, type: 3}
   m_Name: Sonar
   m_EditorClassIdentifier: 
-  skillName: Sonar
+  skillName: "\u58F0\u7EB3"
   skillIcon: {fileID: 21300000, guid: c50f9e6975b1fa4449216f27040d2e60, type: 3}

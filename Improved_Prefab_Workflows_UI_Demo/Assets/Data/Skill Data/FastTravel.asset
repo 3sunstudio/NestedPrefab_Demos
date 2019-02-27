@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa83caad42df2447aa2cf7f6ca6528c, type: 3}
   m_Name: FastTravel
   m_EditorClassIdentifier: 
-  skillName: Fast Travel
+  skillName: "\u77AC\u79FB"
   skillIcon: {fileID: 21300000, guid: 9c2bb1db5d0b7c044902e809dc44e088, type: 3}

@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa83caad42df2447aa2cf7f6ca6528c, type: 3}
   m_Name: Blink
   m_EditorClassIdentifier: 
-  skillName: Blink
+  skillName: "\u95EA\u8000"
   skillIcon: {fileID: 21300000, guid: 295e47d9b3829c741937a1ed15c8b66c, type: 3}

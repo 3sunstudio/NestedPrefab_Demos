@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc8c0840cf811d4495e0558e32d1ae7, type: 3}
   m_Name: Rogue
   m_EditorClassIdentifier: 
-  profileName: Rogue
+  profileName: "\u6D41\u6C13"
   profileIcon: {fileID: 21300000, guid: 9c5daabcbd96855488d328fc7b7d22c5, type: 3}
-  descriptionText: Sneak up on the world. Enter this mode to unlock new combat skills.
+  descriptionText: "\u9690\u8EAB\u9AD8\u624B\u3002\u8FDB\u5165\u6B64\u6A21\u5F0F\u89E3\u9501\u65B0\u7684\u6218\u6597\u6280\u80FD"
   skills:
   - {fileID: 11400000, guid: 5d76df2356d42b749b99a65e4dd577db, type: 2}
   - {fileID: 11400000, guid: 7a4c7efe5bd61614fb1298674b0b7d95, type: 2}
